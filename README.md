@@ -9,6 +9,10 @@
 
 本人目前也还是学生，可能没有时间维护，且水平受限，也不一定能够发现翻译的错误。
 
+本项目的[GitHub地址](https://github.com/xinshoujiajia/chANKOS)
+
+本项目的[电子书地址](https://xinshoujiajia.github.io/chANKOS/)
+
 xinshoujiajia
 
 2024.11
